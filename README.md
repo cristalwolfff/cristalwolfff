@@ -5,7 +5,7 @@
 
 ---
 
-Sendo uma profissional com **10+ anos de experiência** no mercado freelancer, hoje uno minha bagagem de negócios com a engenharia de software para criar soluções de automação e inteligência artificial. 
+Sendo uma profissional com **10+ anos de experiência** no mercado freelancer no mercado nacional e internacional, hoje uno minha bagagem de negócios com a engenharia de software para criar soluções de automação e inteligência artificial. 
 
 Sou uma pessoa não-binária apaixonada por tecnologia, ratinhos twister 🐀 e pelo cosmos.
 
