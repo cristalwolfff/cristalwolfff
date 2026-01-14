@@ -27,7 +27,7 @@ Sou uma pessoa não-binária apaixonada por tecnologia, ratinhos twister 🐀 e 
 
 - **🐺 Wolfinanças (Em desenvolvimento):** Sistema financeiro pessoal com OCR para leitura automática de recibos.
 - **🤖 Laurinha Criativa:** Agente de IA para suporte e geração de conteúdo de Marketing.
-- **🍅 PomoRat:** App de produtividade baseado no método Pomodoro.
+- **🍅 PomoRato:** App de produtividade baseado no método Pomodoro.
 
 ---
 
