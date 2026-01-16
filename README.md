@@ -38,11 +38,6 @@ Sou uma pessoa não-binária apaixonada por tecnologia, ratinhos twister 🐀 e 
 
 ---
 
-### 📊 Minhas Estatísticas
-[![Cristalwolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristalwolfff&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/cristalwolfff)
-
----
-
 <div align="center">
   <p><b>Vamos construir algo incrível?</b></p>
   <a href="mailto:cristalwolf.artista@gmail.com">
