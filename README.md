@@ -1,49 +1,86 @@
-# Olá, eu sou a Cristalwolf! 🐺💜
+### Hi there! I'm an AI Engineer & Creative Technologist. 👋
 
-### Senior AI Engineer & MarTech Strategist (17+ Anos de Exp.)
-> *Unindo a visão de Negócios (CRM/Salesforce) com a execução técnica de Engenharia de Software.*
+I sit at the intersection of **Artificial Intelligence**, **Automation**, and **Visual Strategy**.
+With a background in high-level Design and a pivot to Software Engineering, I don't just build systems that work—I build solutions that align with brand identity and business goals.
 
----
-
-Sou uma profissional com **17+ anos de experiência** no mercado nacional e internacional. Realizei uma transição de carreira executiva para a Engenharia, focando hoje em criar **Agentes de IA que não alucinam** e automações que geram ROI real.
-
-Sou uma pessoa não-binária apaixonada por tecnologia, ratinhos twister 🐀 e pelo cosmos.
-
-### 🛠️ Tech Stack & Arsenal
-
-**🧠 Inteligência Artificial & Automação**
-![Microsoft Copilot](https://img.shields.io/badge/Copilot_Studio-68217A?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Workflow-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-
-**💻 Dados & Back-end**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-ETL-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**☁️ CRM & Web**
-![Salesforce](https://img.shields.io/badge/Salesforce_AI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+I am a **Salesforce Certified AI Associate** focused on practical, revenue-driving implementations.
 
 ---
 
-### 🚀 Tríade de Projetos (Destaques)
+### 🛠️ Tech Stack & Tools
 
-| Projeto | Tecnologia & Impacto |
-| :--- | :--- |
-| **🤖 Laurinha (Enterprise)** | **Stack:** `Microsoft Copilot` `Power FX` `Teams`<br>Agente de compliance para Telecom. Redução de SLA operacional usando **Guardrails rígidos** para evitar alucinações de IA. |
-| **💜 Calm.Aí (Saúde Mental)** | **Stack:** `Gemini API` `Node.js` `JSON Schema`<br>Ferramenta de regulação emocional para neurodivergentes. Usa **Engenharia de Prompt** estruturada para garantir acolhimento seguro (TCC). |
-| **🍅 PomoRato (PWA)** | **Stack:** `JavaScript Vanilla` `Service Workers` `Firebase`<br>App de produtividade gamificado e offline-first. Focado em UX para TDAH e acessibilidade. |
+**Core Engineering**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+
+**AI & Automation**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat&logo=n8n&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/MS_Copilot-6962A4?style=flat&logo=microsoft&logoColor=white)
+
+**Generative & Visuals**
+![Midjourney](https://img.shields.io/badge/Midjourney-Promoting-blue?style=flat)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-Optimization-orange?style=flat)
 
 ---
 
-<div align="center">
-  <p><b>Vamos construir algo incrível?</b></p>
-  <a href="mailto:cristalwolf.artista@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Fale_Comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/cristalwolf-dias">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+### 🚀 What I Deliver
+
+#### 1. Generative AI & Visual Consistency
+Leveraging my background in professional design to engineer prompts that deliver **consistent characters** and **on-brand style guides**.
+* Character consistency workflows across different poses/settings.
+* Commercially viable AI art direction (Midjourney/Stable Diffusion).
+* Image-to-image pipelines for asset refinement.
+
+#### 2. AI Agents & MarTech Automation
+Building intelligent systems to handle customer interactions and internal logic.
+* **Custom Chatbots:** Deployed via Microsoft Copilot Studio & Agent Studio.
+* **Workflow Automation:** Complex integrations using n8n to connect CRMs, Email, and Databases.
+* **CRM Intelligence:** Salesforce AI configurations (Certified Associate).
+
+#### 3. Full-Stack Web Apps
+Creating reactive tools and dashboards.
+* **Frontend:** Logic-heavy interfaces using Vanilla JS & TailwindCSS.
+* **Backend:** Serverless architecture with Firebase and Python scripting.
+
+---
+
+### 📂 Featured Projects
+
+**🎨 Consistent Character Gen (Workflow)**
+A documented workflow for generating consistent brand mascots across multiple scenarios using Stable Diffusion and ControlNet.
+* *Focus:* Prompt Engineering, Visual Consistency.
+* [View Demo/Process](#)
+
+**🤖 Creative AI Support Agent**
+A custom LLM agent capable of handling client inquiries with a specific "brand voice" and automating responses.
+* *Stack:* Microsoft Copilot Studio, NLP.
+* [View Code/Demo](#)
+
+**⏱️ PomoRat - Focus Timer**
+A web application designed to boost productivity using the Pomodoro technique with custom task tracking features.
+* *Stack:* JavaScript, TailwindCSS, Firebase.
+* [View Code/Demo](#)
+
+**📊 WolfFin - Financial Dashboard**
+A comprehensive Python-based dashboard for tracking assets and analyzing financial health.
+* *Stack:* Python, Pandas, Data Visualization.
+* [View Code](#)
+
+---
+
+### 🏆 Certifications
+
+* **Salesforce Certified AI Associate**
+
+---
+
+### 📬 Let's Work Together
+
+I am currently available for freelance projects on **Upwork**.
+
+👉 **[Hire me on Upwork](https://www.upwork.com/freelancers/~01e86eb238637e8561?s=1110580764771602432)**
+*(Please contact me directly through Upwork for project inquiries to comply with platform TOS)*
